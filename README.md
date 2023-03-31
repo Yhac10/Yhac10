@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yhac10
 - 🎮 I develop games for android.
 - 📎 My game engine of choise is Gdevelop.
-- 💻This is my website: https://yacgames101.wixsite.com/home
+- 💻This is my website: https://yacgames.wixsite.com/home
 - 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
 
 
