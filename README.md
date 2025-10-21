@@ -1,7 +1,5 @@
-- 👍 Yo, I’m @Yhac10
-- 🎮 I develop games for android, Windows and for browsers
-- 📎 My game engine of choice is Gdevelop
-- 💻This is my website: https://yhac10.github.io
+I make games of varying quality.
+My website: https://yhac10.github.io
 
 
 <!---
